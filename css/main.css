@@ -1,0 +1,67 @@
+body{
+  padding-top: 50px;
+  align-items: center;
+}
+#navbar{
+  background-color: rgb(109, 166, 252);
+}
+#text{
+  background-color: rgb(34, 30, 190);
+  color: #FFFFFF;
+  margin: 2px;
+}
+#background-image{
+  position: relative;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+  max-height: 500px;
+  max-width: 600px auto;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: middle;
+}
+.mySlides {
+  display:none;
+  width: 100%;
+}
+#lorem{
+  padding: 10px;
+  margin: 12px;
+  clear: both;
+  text-align: center;
+  overflow: hidden;
+  font-size: 15px;
+  font-style: normal;
+}
+#images{
+  width: auto;
+  height: 200px;
+}
+
+  #footer{
+  margin:50px;
+  background-color: rgb(109, 166, 252);
+  width:auto;
+  height:100px;
+  padding:30px;
+}
+#select{
+  margin-left: -100px;
+  padding: 2px;
+  margin-top: 18px;
+}
+#quantity{
+  margin-top: 1px;
+  margin-left: -17px;
+}
+#quantity-label{
+  margin-top: 1px;
+  margin-left: -17px;
+}
+
+img.details{
+  margin: 15px auto;
+  width: auto;
+  height: 200px;
+}
